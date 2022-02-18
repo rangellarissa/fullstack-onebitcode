@@ -1,0 +1,26 @@
+h1{
+    color: purple;
+    border: 2px dashed grey;
+}
+
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3BhY2V4fGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.yellow-text{
+    color: yellow;
+    font-size: 15px;
+}
+
+.big-text{
+    font-size: 20px;
+}
+
+#europa-text{
+    font-size: 10px;
+    color: white;
+
+}
